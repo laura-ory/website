@@ -23,7 +23,7 @@ email: laura.n.g.ory@gmail.com
 description: 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://laura-ory.com/" # the base hostname & protocol for your site, e.g. http://example.com
-linkedin_username: laura-ory
+linkposedin_username: laura-ory
 
 # Build settings
 theme: minima
